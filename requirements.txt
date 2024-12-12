@@ -1,5 +1,8 @@
-numpy
 pandas
 matplotlib
 seaborn
+numpy
 scikit-learn
+pygam
+imbalanced-learn
+tabulate
